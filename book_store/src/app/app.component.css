@@ -1,0 +1,10 @@
+.book-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.book-table th,
+.book-table td {
+  padding: 10px;
+  text-align: left;
+}
